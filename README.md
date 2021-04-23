@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Mes Statistiques](https://github-readme-stats.vercel.app/api?username=OverSquid)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **OverSquid/OverSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

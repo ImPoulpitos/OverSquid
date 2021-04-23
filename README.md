@@ -6,8 +6,8 @@ Je me présente, je m'apppelle Poulpitos. Passionné d'informatique et de Jeux V
 
 ## Comment me contacter
 
-* [Par Discord](https://discord.bio/p/oversquid)
-* [Par Twitter](https://twitter.com/Poulpitos_)
+* <img src="https://i.ibb.co/bLYTV1c/discord-logo-icon-134445.png" width="100px" alt="Discord Icon"> [Par Discord](https://discord.bio/p/oversquid)
+* <img src="https://i.ibb.co/4MYds76/580b57fcd9996e24bc43c53e.png" width="100px" alt="Twitter Icon"> [Par Twitter](https://twitter.com/Poulpitos_)
 
 ## Mes Statistiques
 

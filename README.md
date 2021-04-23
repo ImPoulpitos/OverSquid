@@ -9,8 +9,8 @@ Je me présente, je m'apppelle Poulpitos. Passionné d'informatique et de Jeux V
 Pour me contacter, tu peux passer par ces réseaux sociaux, c'est là où je suis le plus actif et le plus disposé à te répondre.
 D'autres seront ajoutés dans le futur mais ceux là, ils sont sûrs! 
 
-<a href="https://discord.bio/p/oversquid"><img src="https://i.ibb.co/rQyv9MQ/discord-new-logo.png" width="50px" alt="Discord Icon"></a>
-<a href="https://twitter.com/Poulpitos_"><img src="https://i.ibb.co/pQV3wJp/944px-Twitter-Bird-svg.png" width="45px" alt="Twitter Icon"></a>
+<a href="https://discord.bio/p/oversquid" target="_blank"><img src="https://i.ibb.co/rQyv9MQ/discord-new-logo.png" width="50px" alt="Discord Icon"></a>
+<a href="https://twitter.com/Poulpitos_" target="_blank"><img src="https://i.ibb.co/pQV3wJp/944px-Twitter-Bird-svg.png" width="50px" alt="Twitter Icon"></a>
 
 ## Mes Statistiques
 
